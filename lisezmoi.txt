@@ -1,0 +1,7 @@
+/***** version modifiée du module mytube de McDonald *****/
+- ajout de Yahoo Video
+- Ajout de Screenr
+- Ajout de Myvidster
+- quelques corrections html dans les templates
+
+pour une version du module avec prise en charge des medias html5 pour les vidéos uploadés, contacter kris par mail (kris at xoofoo.org ou kris at frxoops.org)
